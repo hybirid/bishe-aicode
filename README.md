@@ -11,3 +11,4 @@ AI毕设源码生成地址：http://ai.muziwk.com/code
 3、前端技术：Vue、Element-UI
 4、开发环境：JDK >= 1.8、MySQL >= 5.7、Maven >= 3.0、node >=14
 
+
